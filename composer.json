@@ -1,0 +1,13 @@
+{
+    "name": "skylab/primo-texto",
+    "description": "Implémentation de l'API PrimoTexto",
+    "authors": [
+        {
+            "name": "DUPONT Sylvain",
+            "email": "sdu@skylab-x.io"
+        }
+    ],
+    "require": {
+      "php": ">=7.0.0"
+    },
+}
