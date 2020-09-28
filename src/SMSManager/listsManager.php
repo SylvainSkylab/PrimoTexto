@@ -1,6 +1,6 @@
 <?php
-    namespace Skylab;
-    
+    namespace SMSManager;
+
     class PTContact {
         public $id=null;
         public $listId=null;

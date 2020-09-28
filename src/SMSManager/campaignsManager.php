@@ -1,5 +1,5 @@
 <?php
-namespace Skylab;
+namespace SMSManager;
 
 class PTCampaign extends baseManager {
     public $id=null;

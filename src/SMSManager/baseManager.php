@@ -1,5 +1,5 @@
 <?php
-    namespace Skylab;
+    namespace SMSManager;
 
     // cURL Verify
 

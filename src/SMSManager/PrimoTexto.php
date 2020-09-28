@@ -1,6 +1,6 @@
 <?php
 
-  namespace Skylab;
+  namespace SMSManager;
 
   use Skylab\baseManager;
   use Skylab\authenticationManager;

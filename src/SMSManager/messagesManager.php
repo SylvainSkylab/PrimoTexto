@@ -1,5 +1,5 @@
 <?php
-    namespace Skylab;
+    namespace SMSManager;
 
     class Sms extends baseManager {
         public $type;

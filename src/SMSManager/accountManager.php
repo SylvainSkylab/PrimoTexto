@@ -1,5 +1,5 @@
 <?php
-    namespace Skylab;
+    namespace SMSManager;
 
     class Blacklist {
         public $type;
